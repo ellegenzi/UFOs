@@ -1,0 +1,14 @@
+body {
+    /* Generate a light text applied to the body of the page */
+    color:#f7f7f7;
+}
+/* Tells stylesheet to apply changes only to divs with a class of jumbotron */
+.jumbotron {
+    background-image: url("../images/nasa.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.text-color {
+    color: #000000  
+  }
